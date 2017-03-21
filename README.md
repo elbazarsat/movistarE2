@@ -1,3 +1,3 @@
 # movistarE2
-lista de canales E2 movistar+ 
+Lista de Canales E2 Movistar+ 
 elbazarsat
